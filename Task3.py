@@ -1,3 +1,4 @@
+# Вопрос 3
 import random
 
 
